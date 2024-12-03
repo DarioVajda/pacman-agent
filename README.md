@@ -1,6 +1,9 @@
 # Pacman Agent
 
-A template for coding a pacman agent.
+The agent I have developed is saved in the ./my_team.py file. That is the one which should be used in the competition. Everything else (is not stated otherwise) in this repository is cloned from the original repo (https://github.com/aig-upf/pacman-agent).
+
+
+# Original Readme:
 
 ## Setting up the environment
 1. Copy or clone the code from this framework to create your Pacman Agent, e.g., `git clone git@github.com:aig-upf/pacman-agent.git`
