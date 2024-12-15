@@ -1,19 +1,10 @@
 # Team Information
 
-**Course:** _[fill your course code and name]_
+**Course:** Interdisciplinarni študij računalništva in informatike, Fakulteta za Računalništvo in Informatiko, Ljubljana
 
-**Semester:** Semester 2, 2020
-
-**Instructor:** _[name of your instructor]_
-
-**Team name:** _[replace this with team name in plan text]_
+**Team name:** Stealth
 
 **Team members:**
 
-* Student 1's Student number - Full Name - Student email - Student Github id
-* Student 2's Student number - Full Name - Student email - Student Github id
-* Student 3's Student number - Full Name - Student email - Student Github id
+* 63230346 - Dario Vajda - dv70648@student.uni-lj.si - https://github.com/DarioVajda
 
-Replace the lines above with the correct details of members. Delete or add lines as needed.
-
-Student numbers should just be the **numbers**.
