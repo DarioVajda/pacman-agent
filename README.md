@@ -1,6 +1,6 @@
 # Pacman Agent
 
-The agent I have developed is saved in the ./my_team.py file. That is the one which should be used in the competition. Everything else (is not stated otherwise) in this repository is cloned from the original repo (https://github.com/aig-upf/pacman-agent).
+The agent I have developed is saved in the ./my_team.py file. That is the one which should be used in the competition. Everything else (if not stated otherwise) in this repository is cloned from the original repo (https://github.com/aig-upf/pacman-agent).
 
 
 # Original Readme:
